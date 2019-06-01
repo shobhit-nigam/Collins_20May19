@@ -1,0 +1,10 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Mon May 20 12:17:39 2019
+
+@author: apple
+"""
+
+for i in range(2, 7, 2):
+    print(i)
